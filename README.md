@@ -29,53 +29,55 @@
 - 🔎 Reach me on other places below.
 
 <br>
-<code>
+
+
+<kbd>
   <img height="24" alt="jamstack" src="https://raw.githubusercontent.com/github/explore/main/topics/jamstack/jamstack.png">
-</code>
+</kbd>
 &nbsp;
-<code>
+<kbd>
   <img height="24" alt="javascript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">
-</code>
+</kbd>
 &nbsp;
-<code>
+<kbd>
   <img height="24" alt="typescript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
-</code>
+</kbd>
 &nbsp;
-<code>
+<kbd>
   <img height="24" alt="react" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">
-</code>
+</kbd>
 &nbsp;
-<code>
+<kbd>
   <img height="24" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png">
-</code>
+</kbd>
 &nbsp;
-<code>
+<kbd>
   <img height="24" alt="astro" src="https://raw.githubusercontent.com/github/explore/main/topics/astro/astro.png">
-</code>
+</kbd>
 &nbsp;
-<code>
+<kbd>
   <img height="24" alt="tailwind" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png">
-</code>
+</kbd>
 &nbsp;
-<code>
+<kbd>
   <img height="24" alt="markdown" src="https://raw.githubusercontent.com/github/explore/main/topics/markdown/markdown.png">
-</code>
+</kbd>
 &nbsp;
-<code>
+<kbd>
   <img height="24" alt="eslint" src="https://raw.githubusercontent.com/github/explore/main/topics/eslint/eslint.png">
-</code>
+</kbd>
 &nbsp;
-<code>
+<kbd>
   <img height="24" alt="vs code" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png">
-</code>
+</kbd>
 &nbsp;
-<code>
+<kbd>
   <img height="24" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png">
-</code>
+</kbd>
 &nbsp;
-<code>
+<kbd>
   <img height="24" alt="cloudflare" src="https://raw.githubusercontent.com/github/explore/main/topics/cloudflare/cloudflare.png">
-</code>
+</kbd>
 
 <br>
 <h5>FIND ME ON</h5>
